@@ -14,10 +14,10 @@ A responsive digital agency landing page built in WordPress with Elementor Free.
 
 ## Run locally
 
-1. Set up a local WordPress installation and activate Elementor Free.
-2. ZIP the [companion plugin folder](delivery/positivus-elementor-draft). Keep the folder itself as the top-level entry in the ZIP.
+1. Set up WordPress and activate Elementor Free.
+2. [Download the plugin ZIP](./positivus-elementor-draft-v0.4.1.zip). Keep it zipped.
 3. In WordPress, go to **Plugins → Add New Plugin → Upload Plugin**. Upload the ZIP and activate the plugin.
-4. Go to **Tools → Positivus Import** and create the page draft. Open it in Elementor to edit or preview it.
+4. Go to **Tools → Positivus Import**, create the page draft, and open it in Elementor.
 
 The plugin folder contains the Elementor template, CSS, JavaScript, PHP form handlers, and the assets used by the page. The public demo is a static export hosted on Netlify. The editable version runs in WordPress.
 
